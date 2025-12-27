@@ -10,6 +10,10 @@
 
 ---
 
+**在线体验**： [点击体验](https://www.scnet.cn/ui/aihub/agent/wwxiaohuihui/video-parser)
+
+---
+
 ## 功能特性
 
 - **多平台支持**：抖音、哔哩哔哩、小红书、快手、好看视频等
